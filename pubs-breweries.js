@@ -1,3 +1,4 @@
+// See: https://www.pubexpertsguide.co.uk/listing.cfm?CategoryID=7
 // Get all td elements with class "Listing"
 var listingElements = document.querySelectorAll('td[class="Listing"]');
 
